@@ -1,0 +1,67 @@
+
+Nome : Rafael da Silveira Ribeiro , João Facco , Pedro Henrique Alves.
+
+
+
+pensar em classes 
+quem é responsavel por manter esse tipo de informações aqui.
+o que vai envolver essa classes
+que elementos de software eu tenho construido para criar esse jgo
+que entidades tenho que construir o que tenho que gaurda de informação o que cada uma tem que fazer
+
+
+view   interface iteativa com usuario.
+renderização formulario tela  relatorio o que apresenta os dados do modelo "model" pro usuario
+
+
+controller
+metodos que recbebe  argumentos  e passa pro  "model" que muda um estado, manipulação dos dados 
+
+
+
+model  
+codigo logica de negocio  
+guardao o dado e o seu estado a info dele como ele ta no mommentoo
+
+
+
+
+
+  MVC
+   
+
+view 
+
+classe menu 
+
+
+instanciação dos devidos metodos 
+ 
+
+
+
+Controller 
+metodo phase (..) //o paresenteses reprentam a passagem e manipulação dos dados do usuario atraves dos metodos para as classes
+
+metodo createphase(...)
+
+metodocreateship(...)
+
+metodo scorecontrol(...)
+
+metodo move (...) 
+
+metodo ataque (...)
+
+
+model 
+devido encapsulamento
+class phase (..)  atributos
+
+classe createphase(..)  atributos
+
+classe scorecontroll (...)  atributos
+
+classe move (...)   atributos com herança tanto pra nave quantos alieniginas 
+
+classe ataque ( ...)   atributos com herança tanto pra nave quantos alieniginas 
